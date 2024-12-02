@@ -17,25 +17,42 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 ## Talks Turned Articles
 
 Sociotechnical guardrails for AI-driven application testing
+
 Code or low-code - navigating the test automation options
 
 ## Trainings
 
 01  Apply AI of today in your testing (1 day)
+
 02  Test case design (2 days)
+
 03  Exploratory testing foundations (1 day)
+
 04  Python for testing (2 days)
+
 05  Exploratory testing on computer interfaces (1 day)
+
 06  Exploratory testing work course (2 days)
+
 07  Acceptance testing (1 day)
+
 08  Managing and leading for testing (2 days)
+
 09  Social software testing approaches (1 day)
+
 10  Test process improvement (1 day)
+
 11  Test automation primer (1 day)
+
 12  Exploratory unit testing (1 day)
+
 13  Agile testing (1 day)
+
 14  First steps to software testing (1/2 day)
+
 15  Containers and Infrastructure as Code (1 day)
+
 16  Architectures and modeling for testing (1 day)
+
 17  Exploratory security testing (1 day)
 18  Exploratory performance testing (1 day)
