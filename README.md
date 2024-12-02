@@ -16,9 +16,9 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 ## Talks Turned Articles
 
-Sociotechnical guardrails for AI-driven application testing
+AA  Sociotechnical guardrails for AI-driven application testing
 
-Code or low-code - navigating the test automation options
+AB  Code or low-code - navigating the test automation options
 
 ## Trainings
 
